@@ -106,7 +106,7 @@ A user can initiate the end process or, because time has expired, the `AlloyQuer
 ## Glossary
 
 The following glossary provides a brief definition of key terms and concepts used in the context of the Alloy application.
-
+this is a test
 **Definition:** The structure and build of the Alloy Exercise, usually contains some combination of a Player exercise, Caster directory, and Steamfitter scenario.
 
 **Event:** The actual running of a simulation. An Event Template is the planned exercise to occur.
